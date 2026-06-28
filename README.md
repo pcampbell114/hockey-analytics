@@ -1,5 +1,7 @@
 # Hockey Player & Goalie Evaluation Framework
 
+### Author: Patrick Campbell
+
 A research project to develop improved player and goalie evaluation metrics in hockey, addressing known shortcomings of existing statistics like xG and GSAx.
 
 ## Project Goals
