@@ -11,6 +11,7 @@ A research project to develop improved player and goalie evaluation metrics in h
 - Develop a goalie evaluation metric that stabilizes faster than GSAx and incorporates richer shot features
 - Produce uncertainty-quantified player ratings per season
 - Validate against existing metrics on year-over-year stability and team outcome prediction
+- Develop a causal inference framework for a statistic that is analogous to contemporaneous WAR measures in sports.
 
 ## Repository Structure
 
