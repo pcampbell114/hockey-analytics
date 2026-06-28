@@ -1,6 +1,7 @@
 # Hockey Player & Goalie Evaluation Framework
 
 ### Author: Patrick Campbell
+### Instiutional Affiliation: University of Washington
 
 A research project to develop improved player and goalie evaluation metrics in hockey, addressing known shortcomings of existing statistics like xG and GSAx, with the primary target application being the National Hockey League (NHL). The project employs and develops novel modern techniques from machine learning and causal inference to inform these new metrics.
 
