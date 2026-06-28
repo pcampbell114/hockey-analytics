@@ -2,7 +2,7 @@
 
 ### Author: Patrick Campbell
 
-A research project to develop improved player and goalie evaluation metrics in hockey, addressing known shortcomings of existing statistics like xG and GSAx.
+A research project to develop improved player and goalie evaluation metrics in hockey, addressing known shortcomings of existing statistics like xG and GSAx, with the primary target application being the National Hockey League (NHL). The project employs and develops novel modern tecnhiques like machine learning and causal inference to inform these new metrics.
 
 ## Project Goals
 
